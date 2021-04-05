@@ -1,2 +1,2 @@
-# 如何啟動
-在根目錄執行npm start即可
+# How to start
+Please move to root folder and use **npm start** with cmd
