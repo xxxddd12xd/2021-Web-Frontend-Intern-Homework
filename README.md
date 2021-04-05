@@ -1,4 +1,4 @@
 # How to start
-Please move to root folder and use **npm start** with cmd
+Please move to root folder and use **npm start** with cmd<br>
 and yes,there are so many bugs.
 when they occur,press **F5**
