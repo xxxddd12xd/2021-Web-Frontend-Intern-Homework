@@ -58,6 +58,63 @@ const Navbar = () => {
               <Link className="dropdown-item" to="/scenicSpot/Taoyuan">
                 桃園市
               </Link>
+              <Link className="dropdown-item" to="/scenicSpot/Taichung">
+                臺中市
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/Tainan">
+                臺南市
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/Kaohsiung">
+                高雄市
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/Keelung">
+                基隆市
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/Hsinchu">
+                新竹市
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/HsinchuCounty">
+                新竹縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/MiaoliCounty">
+                苗栗縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/ChanghuaCounty">
+                彰化縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/NantouCounty">
+                南投縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/YunlinCounty">
+                雲林縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/ChiayiCounty">
+                嘉義縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/Chiayi">
+                嘉義市
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/PingtungCounty">
+                屏東縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/YilanCounty">
+                宜蘭縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/HualienCounty">
+                花蓮縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/TaitungCounty">
+                臺東縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/KinmenCounty">
+                金門縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/PenghuCounty">
+                澎湖縣
+              </Link>
+              <Link className="dropdown-item" to="/scenicSpot/LienchiangCounty">
+                連江縣
+              </Link>
             </div>
           </li>
         </ul>
